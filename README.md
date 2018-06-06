@@ -2,4 +2,4 @@
 
 ## Inhaltsverzeichnis
 
-- [Vorlesung 4](TG4-Notizen.md)
+- [Vorlesung 4](TG04-Notizen.md)
