@@ -2,9 +2,9 @@
 
 ## Inhaltsverzeichnis
 
-- Vorlesung 1
-- Vorlesung 2
-- Vorlesung 3
+- [Vorlesung 1](TG01-Notizen.md)
+- [Vorlesung 2](TG02-Notizen.md)
+- [Vorlesung 3](TG03-Notizen.md)
 - [Vorlesung 4](TG04-Notizen.md)
 - [Vorlesung 5](TG05-Notizen.md)
 - Vorlesung 6
